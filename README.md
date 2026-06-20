@@ -110,7 +110,7 @@ streamlit run Script/app.py
 ## 📷 Screenshots
 
 ![alt text](home_page.png)
-![alt text](predicaton_page.png)
+![alt text](prediction_page.png)
 
 ## 🎯 Future Improvements
 
