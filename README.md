@@ -71,19 +71,21 @@ Model performance evaluated using:
 * Matplotlib
 * Streamlit
 
----
-
 ## 📁 Project Structure
 
+```bash
 Mobile-Churn-Prediction/
 │
 ├── Notebook/
+│   └── churn_analysis.ipynb
+│
 ├── Script/
+│   └── app.py
+│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
----
+```
 
 ## 🚀 Run Streamlit App
 
